@@ -27,5 +27,10 @@ jobs:
       - name: Run lint
         run: ruff check .
 
+      - name: Validate transformed data
+        run: |
+          python scripts/transform_sl_lines.py --input data/sl_lines_raw.json --output data/sl_lines_transformed.json
+          python scripts/validate_transform.py --input data/sl_lines_transformed.json
+
       - name: Run tests
         run: pytest -q
