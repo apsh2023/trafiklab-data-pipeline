@@ -1,0 +1,19 @@
+{
+  "total_records": 581,
+  "category_counts": {
+    "bus": 553,
+    "metro": 7,
+    "ship": 4,
+    "taxi": 1,
+    "train": 6,
+    "tram": 10
+  },
+  "transport_mode_counts": {
+    "BUS": 553,
+    "METRO": 7,
+    "SHIP": 4,
+    "TAXI": 1,
+    "TRAIN": 6,
+    "TRAM": 10
+  }
+}

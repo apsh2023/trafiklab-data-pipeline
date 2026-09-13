@@ -1,0 +1,3488 @@
+[
+  {
+    "line_id": 10,
+    "name": "Blå linjen",
+    "transport_mode": "METRO",
+    "category": "metro"
+  },
+  {
+    "line_id": 11,
+    "name": "Blå linjen",
+    "transport_mode": "METRO",
+    "category": "metro"
+  },
+  {
+    "line_id": 13,
+    "name": "Röda linjen",
+    "transport_mode": "METRO",
+    "category": "metro"
+  },
+  {
+    "line_id": 14,
+    "name": "Röda linjen",
+    "transport_mode": "METRO",
+    "category": "metro"
+  },
+  {
+    "line_id": 17,
+    "name": "Gröna linjen",
+    "transport_mode": "METRO",
+    "category": "metro"
+  },
+  {
+    "line_id": 18,
+    "name": "Gröna linjen",
+    "transport_mode": "METRO",
+    "category": "metro"
+  },
+  {
+    "line_id": 19,
+    "name": "Gröna linjen",
+    "transport_mode": "METRO",
+    "category": "metro"
+  },
+  {
+    "line_id": 7,
+    "name": "Spårväg city",
+    "transport_mode": "TRAM",
+    "category": "tram"
+  },
+  {
+    "line_id": 12,
+    "name": "Nockebybanan",
+    "transport_mode": "TRAM",
+    "category": "tram"
+  },
+  {
+    "line_id": 21,
+    "name": "Lidingöbanan",
+    "transport_mode": "TRAM",
+    "category": "tram"
+  },
+  {
+    "line_id": 25,
+    "name": "Saltsjöbanan",
+    "transport_mode": "TRAM",
+    "category": "tram"
+  },
+  {
+    "line_id": 26,
+    "name": "Saltsjöbanan",
+    "transport_mode": "TRAM",
+    "category": "tram"
+  },
+  {
+    "line_id": 27,
+    "name": "Kårstalinjen",
+    "transport_mode": "TRAM",
+    "category": "tram"
+  },
+  {
+    "line_id": 28,
+    "name": "Österskärslinjen",
+    "transport_mode": "TRAM",
+    "category": "tram"
+  },
+  {
+    "line_id": 29,
+    "name": "Näsbyparkslinjen",
+    "transport_mode": "TRAM",
+    "category": "tram"
+  },
+  {
+    "line_id": 30,
+    "name": "Tvärbanan",
+    "transport_mode": "TRAM",
+    "category": "tram"
+  },
+  {
+    "line_id": 31,
+    "name": "Tvärbanan",
+    "transport_mode": "TRAM",
+    "category": "tram"
+  },
+  {
+    "line_id": 40,
+    "name": "",
+    "transport_mode": "TRAIN",
+    "category": "train"
+  },
+  {
+    "line_id": 41,
+    "name": "",
+    "transport_mode": "TRAIN",
+    "category": "train"
+  },
+  {
+    "line_id": 42,
+    "name": "",
+    "transport_mode": "TRAIN",
+    "category": "train"
+  },
+  {
+    "line_id": 43,
+    "name": "",
+    "transport_mode": "TRAIN",
+    "category": "train"
+  },
+  {
+    "line_id": 44,
+    "name": "",
+    "transport_mode": "TRAIN",
+    "category": "train"
+  },
+  {
+    "line_id": 48,
+    "name": "",
+    "transport_mode": "TRAIN",
+    "category": "train"
+  },
+  {
+    "line_id": 1,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 2,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 3,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 4,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 5,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 6,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 50,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 53,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 54,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 55,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 56,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 57,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 58,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 59,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 61,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 65,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 66,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 67,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 68,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 69,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 71,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 72,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 73,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 74,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 75,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 76,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 77,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 91,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 93,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 94,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 96,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 112,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 113,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 114,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 115,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 116,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 117,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 118,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 119,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 122,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 124,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 127,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 129,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 133,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 134,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 135,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 141,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 142,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 143,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 144,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 145,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 147,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 151,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 152,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 153,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 154,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 155,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 156,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 157,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 158,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 159,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 160,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 161,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 163,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 164,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 165,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 167,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 168,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 169,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 172,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 173,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 175,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 176,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 177,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 178,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 179,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 180,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 181,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 182,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 183,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 184,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 185,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 188,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 190,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 191,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 192,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 193,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 194,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 195,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 196,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 197,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 198,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 199,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 201,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 202,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 203,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 204,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 205,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 206,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 207,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 211,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 212,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 221,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 222,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 225,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 233,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 238,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 250,
+    "name": "Lidingöloppet",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 282,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 291,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 293,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 301,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 302,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 303,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 304,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 305,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 309,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 311,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 312,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 313,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 315,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 316,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 317,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 318,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 322,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 323,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 325,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 333,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 340,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 350,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 396,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 401,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 402,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 403,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 404,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 405,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 409,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 410,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 411,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 413,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 414,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 416,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 417,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 418,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 420,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 421,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 422,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 423,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 424,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 425,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 426,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 428,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 429,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 430,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 432,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 433,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 434,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 435,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 436,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 437,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 438,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 439,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 440,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 441,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 442,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 443,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 444,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 445,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 446,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 447,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 448,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 449,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 452,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 453,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 454,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 458,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 461,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 462,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 463,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 465,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 467,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 468,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 469,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 471,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 474,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 480,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 484,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 489,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 491,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 492,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 496,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 497,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 501,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 503,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 504,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 505,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 506,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 508,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 509,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 511,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 512,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 513,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 514,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 515,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 516,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 517,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 518,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 519,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 520,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 523,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 524,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 525,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 526,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 527,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 528,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 529,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 530,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 531,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 532,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 533,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 534,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 535,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 536,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 537,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 538,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 539,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 540,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 541,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 542,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 543,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 544,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 545,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 546,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 547,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 548,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 549,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 550,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 552,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 553,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 554,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 555,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 556,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 557,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 558,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 559,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 560,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 561,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 562,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 564,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 565,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 566,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 567,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 568,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 570,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 571,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 573,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 574,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 575,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 576,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 577,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 579,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 580,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 581,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 582,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 583,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 584,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 587,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 589,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 590,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 591,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 592,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 593,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 594,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 595,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 596,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 597,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 598,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 599,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 601,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 602,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 604,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 605,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 606,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 607,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 608,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 609,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 610,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 611,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 612,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 613,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 614,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 615,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 616,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 617,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 618,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 619,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 620,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 621,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 622,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 623,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 624,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 625,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 626,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 627,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 628,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 629,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 630,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 631,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 632,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 633,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 634,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 635,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 636,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 637,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 638,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 639,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 640,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 641,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 642,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 643,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 644,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 645,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 646,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 647,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 648,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 649,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 650,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 651,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 652,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 653,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 654,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 655,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 656,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 657,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 658,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 659,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 660,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 661,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 662,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 663,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 664,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 665,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 666,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 667,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 668,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 669,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 670,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 676,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 677,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 680,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 681,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 682,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 683,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 684,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 685,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 686,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 687,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 688,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 689,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 690,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 691,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 694,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 695,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 696,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 697,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 698,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 699,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 702,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 703,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 704,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 705,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 706,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 707,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 708,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 709,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 710,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 711,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 713,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 714,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 715,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 716,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 717,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 718,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 719,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 721,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 722,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 723,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 725,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 726,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 727,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 729,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 731,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 732,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 737,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 738,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 740,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 742,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 743,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 744,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 745,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 747,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 748,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 749,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 750,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 751,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 752,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 753,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 754,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 755,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 756,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 758,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 759,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 761,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 765,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 776,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 777,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 778,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 779,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 780,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 781,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 782,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 783,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 784,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 785,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 786,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 787,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 788,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 789,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 791,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 792,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 794,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 795,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 796,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 797,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 798,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 801,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 802,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 803,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 804,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 805,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 806,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 807,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 808,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 809,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 810,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 812,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 813,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 814,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 815,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 816,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 817,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 818,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 819,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 820,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 821,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 822,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 823,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 824,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 826,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 827,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 828,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 829,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 830,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 831,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 832,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 833,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 834,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 835,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 836,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 837,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 838,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 839,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 840,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 842,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 843,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 844,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 845,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 846,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 847,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 848,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 849,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 850,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 852,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 854,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 856,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 858,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 861,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 862,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 865,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 869,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 873,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 875,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 889,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 890,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 892,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 893,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 898,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 901,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 903,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 906,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 907,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 908,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 912,
+    "name": "Ersätter Nockebybanan",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 913,
+    "name": "Ersätter Tunnelbanan",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 917,
+    "name": "Ersätter Tunnelbanan",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 918,
+    "name": "Ersätter Tunnelbanan",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 919,
+    "name": "Ersätter Tunnelbanan",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 920,
+    "name": "Ersätter Lidingöbanan",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 921,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 923,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 924,
+    "name": "Ersätter Tunnelbanan",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 925,
+    "name": "Ersätter Saltsjöbanan",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 926,
+    "name": "Ersätter Saltsjöbanan",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 927,
+    "name": "Ersätter Roslagsbanan",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 928,
+    "name": "Ersätter Roslagsbanan",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 929,
+    "name": "Ersätter Roslagsbanan",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 930,
+    "name": "Ersätter Tvärbanan",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 931,
+    "name": "Ersätter Tvärbanan",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 932,
+    "name": "Ersätter Tvärbanan",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 935,
+    "name": "Ersätter Pendeltåget (akut)",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 936,
+    "name": "Ersätter Pendeltåget (akut)",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 937,
+    "name": "Ersätter Pendeltåget (akut)",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 944,
+    "name": "Ersätter Roslagsbanan",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 945,
+    "name": "Ersätter Roslagsbanan",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 946,
+    "name": "Ersätter Roslagsbanan",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 947,
+    "name": "Ersätter Roslagsbanan",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 949,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 952,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 953,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 955,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 956,
+    "name": "Ersätter Roslagsbanan",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 957,
+    "name": "Ersätter Saltsjöbanan",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 958,
+    "name": "Ersätter Saltsjöbanan",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 961,
+    "name": "Närtrafiken Täby",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 962,
+    "name": "Ersätter Roslagsbanan",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 963,
+    "name": "Ersätter Roslagsbanan",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 964,
+    "name": "Ersätter Roslagsbanan",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 965,
+    "name": "Ersätter Saltsjöbanan",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 966,
+    "name": "Ersätter Saltsjöbanan",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 967,
+    "name": "Ersätter Saltsjöbanan",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 968,
+    "name": "Närtrafiken Åkersberga",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 969,
+    "name": "Närtrafiken Norrtälje",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 970,
+    "name": "Ersätter Spårväg City",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 971,
+    "name": "Tillgänglighetslinje",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 972,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 978,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 979,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 981,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 982,
+    "name": "Ersätter Pendeltåget",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 983,
+    "name": "Ersätter Pendeltåget",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 985,
+    "name": "",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 986,
+    "name": "Ersätter Pendeltåget",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 987,
+    "name": "Ersätter Pendeltåget",
+    "transport_mode": "BUS",
+    "category": "bus"
+  },
+  {
+    "line_id": 80,
+    "name": "",
+    "transport_mode": "SHIP",
+    "category": "ship"
+  },
+  {
+    "line_id": 82,
+    "name": "Djurgårdsfärjan",
+    "transport_mode": "SHIP",
+    "category": "ship"
+  },
+  {
+    "line_id": 84,
+    "name": "",
+    "transport_mode": "SHIP",
+    "category": "ship"
+  },
+  {
+    "line_id": 89,
+    "name": "",
+    "transport_mode": "SHIP",
+    "category": "ship"
+  },
+  {
+    "line_id": 299,
+    "name": "",
+    "transport_mode": "TAXI",
+    "category": "taxi"
+  }
+]
