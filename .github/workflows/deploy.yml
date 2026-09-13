@@ -1,0 +1,78 @@
+name: Deploy to GitHub Pages
+
+on:
+  push:
+    branches: [ main ]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run fetch step
+        run: |
+          python scripts/fetch_sl_lines.py --output data/sl_lines_raw.json --summary-output data/sl_lines_summary.json
+
+      - name: Run transform step
+        run: |
+          python scripts/transform_sl_lines.py --input data/sl_lines_raw.json --output data/sl_lines_transformed.json
+
+      - name: Validate transformed data
+        run: |
+          python scripts/validate_transform.py --input data/sl_lines_transformed.json
+
+      - name: Aggregate transformed data
+        run: |
+          python scripts/aggregate_sl_lines.py --input data/sl_lines_transformed.json --output data/sl_lines_aggregated.json
+
+      - name: Generate HTML report
+        run: |
+          python scripts/generate_aggregate_report.py --input data/sl_lines_summary.json --output reports/aggregate_report.html
+          mkdir -p site
+          cp reports/aggregate_report.html site/index.html
+
+      - name: Run tests
+        run: pytest -q
+
+      - name: Configure GitHub Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
