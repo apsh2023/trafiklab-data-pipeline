@@ -23,6 +23,9 @@ https://transport.integration.sl.se/v1/lines?transport_authority_id=1
 ## Files
 - [PROJECT_PLAN.md](PROJECT_PLAN.md) – project plan
 - [scripts/fetch_sl_lines.py](scripts/fetch_sl_lines.py) – fetches the API and saves a summary
+- [scripts/transform_sl_lines.py](scripts/transform_sl_lines.py) – flattens raw data into clean records
+- [scripts/validate_transform.py](scripts/validate_transform.py) – validates the transformed JSON file
+- [scripts/aggregate_sl_lines.py](scripts/aggregate_sl_lines.py) – aggregates transformed records by category and mode
 - [tests/test_fetch_sl_lines.py](tests/test_fetch_sl_lines.py) – CI validation tests
 - [.github/workflows/ci.yml](.github/workflows/ci.yml) – GitHub Actions workflow
 - [.env.example](.env.example) – example local environment configuration

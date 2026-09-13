@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>SL Line Aggregation Report</title>
+    <style>
+      :root {
+        color-scheme: light;
+        --bg: #f4f7fb;
+        --card: #ffffff;
+        --text: #1f2937;
+        --muted: #6b7280;
+        --border: #dbe3ee;
+        --accent: #2563eb;
+      }
+      body {
+        font-family: Arial, sans-serif;
+        background: var(--bg);
+        color: var(--text);
+        margin: 0;
+        padding: 2rem;
+      }
+      h1, h2 {
+        margin-top: 0;
+      }
+      .container {
+        max-width: 980px;
+        margin: 0 auto;
+      }
+      .summary {
+        background: var(--card);
+        border: 1px solid var(--border);
+        border-radius: 12px;
+        padding: 1.5rem;
+        box-shadow: 0 2px 8px rgba(0, 0, 0, 0.04);
+      }
+      .summary .total {
+        font-size: 2.2rem;
+        font-weight: 700;
+        color: var(--accent);
+      }
+      .grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+        gap: 1.5rem;
+        margin-top: 1.5rem;
+      }
+      .card {
+        background: var(--card);
+        border: 1px solid var(--border);
+        border-radius: 12px;
+        padding: 1.25rem;
+      }
+      table {
+        width: 100%;
+        border-collapse: collapse;
+      }
+      th, td {
+        text-align: left;
+        padding: 0.7rem 0.75rem;
+        border-bottom: 1px solid var(--border);
+      }
+      th {
+        background: #eef4ff;
+      }
+      .muted {
+        color: var(--muted);
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <div class="summary">
+        <p class="muted">SL Line Aggregation Report</p>
+        <h1>Total records</h1>
+        <div class="total">581</div>
+      </div>
+
+      <div class="grid">
+        
+    <section class="card">
+      <h2>Category counts</h2>
+      <table>
+        <thead>
+          <tr><th>Label</th><th>Count</th></tr>
+        </thead>
+        <tbody>
+          <tr><td>bus</td><td>553</td></tr><tr><td>metro</td><td>7</td></tr><tr><td>ship</td><td>4</td></tr><tr><td>taxi</td><td>1</td></tr><tr><td>train</td><td>6</td></tr><tr><td>tram</td><td>10</td></tr>
+        </tbody>
+      </table>
+    </section>
+    
+        
+    <section class="card">
+      <h2>Transport mode counts</h2>
+      <table>
+        <thead>
+          <tr><th>Label</th><th>Count</th></tr>
+        </thead>
+        <tbody>
+          <tr><td>BUS</td><td>553</td></tr><tr><td>METRO</td><td>7</td></tr><tr><td>SHIP</td><td>4</td></tr><tr><td>TAXI</td><td>1</td></tr><tr><td>TRAIN</td><td>6</td></tr><tr><td>TRAM</td><td>10</td></tr>
+        </tbody>
+      </table>
+    </section>
+    
+      </div>
+    </div>
+  </body>
+</html>
