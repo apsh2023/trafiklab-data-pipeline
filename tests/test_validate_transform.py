@@ -27,6 +27,12 @@ def test_validate_transformed_records_accepts_clean_data():
     assert validate_transformed_records(records) is None
 
 
+def test_validate_transformed_records_accepts_blank_names_when_schema_is_present():
+    records = [{"line_id": 40, "name": "", "transport_mode": "TRAIN", "category": "train"}]
+
+    assert validate_transformed_records(records) is None
+
+
 def test_validate_transformed_records_rejects_missing_or_invalid_fields():
     records = [{"line_id": 7, "name": "", "transport_mode": "TRAM"}]
 
