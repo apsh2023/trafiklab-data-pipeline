@@ -31,7 +31,9 @@ def validate_transformed_records(records: list[dict[str, Any]]) -> None:
             raise ValueError(f"Record {index} has an empty line_id.")
 
         name = record["name"]
-        if not isinstance(name, str) or not name.strip():
+        if name is None:
+            raise ValueError(f"Record {index} has a null name.")
+        if not isinstance(name, str):
             raise ValueError(f"Record {index} has an invalid name.")
 
         transport_mode = record["transport_mode"]
