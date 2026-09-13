@@ -17,7 +17,7 @@ def load_summary(input_path: str | Path) -> dict[str, Any]:
         payload = json.load(infile)
 
     if not isinstance(payload, dict):
-        raise ValueError(f"Summary file '{path}' must contain a JSON object.")
+        raise TypeError(f"Summary file '{path}' must contain a JSON object.")
 
     required_keys = {"total_records", "category_counts", "transport_mode_counts"}
     missing = sorted(required_keys - set(payload))

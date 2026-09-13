@@ -10,11 +10,13 @@ from collections import Counter
 from pathlib import Path
 from typing import Any
 
-PROJECT_ROOT = Path(__file__).resolve().parents[1]
-if str(PROJECT_ROOT) not in sys.path:
-    sys.path.insert(0, str(PROJECT_ROOT))
-
-from scripts.validate_transform import validate_transformed_records
+try:
+    from scripts.validate_transform import validate_transformed_records
+except ModuleNotFoundError:
+    PROJECT_ROOT = Path(__file__).resolve().parents[1]
+    if str(PROJECT_ROOT) not in sys.path:
+        sys.path.insert(0, str(PROJECT_ROOT))
+    from scripts.validate_transform import validate_transformed_records
 
 
 def aggregate_records(records: list[dict[str, Any]]) -> dict[str, Any]:
